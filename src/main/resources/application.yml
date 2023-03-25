@@ -1,0 +1,13 @@
+files:
+  urls:
+    hosts:
+      host1: "https://s3-ap-southeast-1.amazonaws.com/he-public-data/testCase1e100177.json"
+      host2: "https://s3-ap-southeast-1.amazonaws.com/he-public-data/testCase2f253099.json"
+      host3: "https://s3-ap-southeast-1.amazonaws.com/he-public-data/testCase3fc70fae.json"
+      host4: "https://s3-ap-southeast-1.amazonaws.com/he-public-data/testCase4098e123.json"
+      host5: "https://s3-ap-southeast-1.amazonaws.com/he-public-data/testCase518a79ed.json"
+      host6: "https://s3-ap-southeast-1.amazonaws.com/he-public-data/testCase632a2a40.json"
+      host7: "https://s3-ap-southeast-1.amazonaws.com/he-public-data/testCase7256d7a2.json"
+      host8: "https://s3-ap-southeast-1.amazonaws.com/he-public-data/testCase83dbfe6d.json"
+      host9: "https://s3-ap-southeast-1.amazonaws.com/he-public-data/testCase948e834d.json"
+      host10: "https://s3-ap-southeast-1.amazonaws.com/he-public-data/testCase10528c6f1.json"
