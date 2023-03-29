@@ -1,0 +1,12 @@
+    public void get(@RequestBody Object object){
+List<abc> b1= new ArrayList<>();
+        ObjectMapper ab= new ObjectMapper();
+        Map<String, abc> map = ab.convertValue(object, new TypeReference<Map<String, abc>>() {
+        });
+
+
+
+
+       map.values().forEach(c-> System.out.println(c.getName()+"  "+c.getValue()));
+
+    }
